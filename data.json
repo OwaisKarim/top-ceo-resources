@@ -1,0 +1,92 @@
+[
+  {
+    "id":1,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/melanie-perkins-modified.png",
+    "name":"Melanie Perkins",
+    "age":34,
+    "country":"Australia",
+    "company":"Canva",
+    "salary":140000
+  },
+  {
+    "id":2,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/satya-nadella-modified.png",
+    "name":"Satya Nadella",
+    "age":54,
+    "country":"United States",
+    "company":"Microsoft",
+    "salary":120000
+  },
+  {
+    "id":3,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/sundar-pichai-modified.png",
+    "name":"Sundar Pichai",
+    "age":49,
+    "country":"United States",
+    "company":"Google",
+    "salary":130000
+  },
+  {
+    "id":4,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/mark-zuckerburg-modified.png",
+    "name":"Mark Zuckerburg",
+    "age":37,
+    "country":"United States",
+    "company":"Facebook",
+    "salary":150000
+  },
+  {
+    "id":5,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/tim-cook-modified.png",
+    "name":"Tim Cook",
+    "age":60,
+    "country":"United States",
+    "company":"Apple",
+    "salary":120000
+  },
+  {
+    "id":6,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/jeff-bezos-modified.png",
+    "name":"Jeff Bezos",
+    "age":57,
+    "country":"United States",
+    "company":"Amazon",
+    "salary":140000
+  },
+  {
+    "id":7,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/elon-musk-modified.png",
+    "name":"Elon Musk",
+    "age":50,
+    "country":"United States",
+    "company":"Tesla",
+    "salary":110000
+  },
+  {
+    "id":8,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/eric-yuan-modified.png",
+    "name":"Eric Yuan",
+    "age":51,
+    "country":"China",
+    "company":"Zoom",
+    "salary":100000
+  },
+  {
+    "id":9,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/marc-benioff-modified.png",
+    "name":"Marc Benioff",
+    "age":57,
+    "country":"United States",
+    "company":"Salesforce",
+    "salary":150000
+  },
+  {
+    "id":10,
+    "image":"https://raw.githubusercontent.com/OwaisKarim/top-ceo-resources/main/images/michael-dell-modified.png",
+    "name":"Michael Dell",
+    "age":56,
+    "country":"United States",
+    "company":"Dell",
+    "salary":180000
+  }
+]
